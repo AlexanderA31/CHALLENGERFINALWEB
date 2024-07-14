@@ -66,6 +66,7 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 ![imagen](https://github.com/user-attachments/assets/cca97bf6-b419-44ff-a0a8-59533fdd8e90)
 
 
+
 ## Estructura del Proyecto
 
 ```plaintext
