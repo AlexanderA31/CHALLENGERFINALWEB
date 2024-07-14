@@ -41,7 +41,7 @@ Una vez importado el proyecto, Maven descargará automáticamente todas las depe
 
 ### Asegurarnos de descargar el chromedriver y colocarlo en la ruta especificada y de la arquitectura de las especificaciones del ordenador en este caso de 64 bits
 
-![fef15596-209f-4b40-9152-7b17fd34dbbd](https://github.com/user-attachments/assets/adad4a4e-b852-47f1-bfda-0b4b6fe1f2a7)
+![853deb28-b5d2-4530-9c46-a5df7737b9a1](https://github.com/user-attachments/assets/f925f1e0-d3f2-4d04-81b1-4c9c9087aac3)
 
 
 Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/)
