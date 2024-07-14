@@ -36,7 +36,7 @@ Esta automatización está hecha en base a Selenium y Cucumber para NTT DATA.
 
 Una vez importado el proyecto, Maven descargará automáticamente todas las dependencias especificadas en el archivo `pom.xml`. 
 
-![853deb28-b5d2-4530-9c46-a5df7737b9a1](https://github.com/user-attachments/assets/26c48071-e61f-4327-a80b-c4450947cf6a)
+![imagen](https://github.com/user-attachments/assets/73581fbf-7511-4311-91a7-bb7f9e163f8a)
 
 
 ### Asegurarnos de descargar el chromedriver y colocarlo en la ruta especificada y de la arquitectura de las especificaciones del ordenador en este caso de 64 bits
