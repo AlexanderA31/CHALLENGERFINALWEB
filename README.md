@@ -36,11 +36,13 @@ Esta automatización está hecha en base a Selenium y Cucumber para NTT DATA.
 
 Una vez importado el proyecto, Maven descargará automáticamente todas las dependencias especificadas en el archivo `pom.xml`. 
 
-![imagen](https://github.com/user-attachments/assets/c5f22d5e-bffa-47f6-9de3-82060dfbefa3)
+![853deb28-b5d2-4530-9c46-a5df7737b9a1](https://github.com/user-attachments/assets/26c48071-e61f-4327-a80b-c4450947cf6a)
+
 
 ### Asegurarnos de descargar el chromedriver y colocarlo en la ruta especificada y de la arquitectura de las especificaciones del ordenador en este caso de 64 bits
 
-![imagen](https://github.com/user-attachments/assets/853deb28-b5d2-4530-9c46-a5df7737b9a1)
+![fef15596-209f-4b40-9152-7b17fd34dbbd](https://github.com/user-attachments/assets/adad4a4e-b852-47f1-bfda-0b4b6fe1f2a7)
+
 
 Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
@@ -54,16 +56,19 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ### Ejecución del Proyecto 
 
-![imagen](https://github.com/user-attachments/assets/d455186e-fd1f-4cbb-a210-8649a78eee58)
+![d455186e-fd1f-4cbb-a210-8649a78eee58](https://github.com/user-attachments/assets/a031649d-0f17-46c7-9d47-a6b94eebe6ba)
+
 
 ## Revisar los Reportes del Proyecto 
 
-![imagen](https://github.com/user-attachments/assets/c9cbb96a-6ff8-4a0f-84d1-f46617c88f93)
+![c9cbb96a-6ff8-4a0f-84d1-f46617c88f93](https://github.com/user-attachments/assets/3254e4fa-f31c-4a4c-a331-34d13bc988ae)
 
 ## Reportes 
 
-![imagen](https://github.com/user-attachments/assets/fb2a236d-5f1b-4fb0-acd5-926fd824257d)
-![imagen](https://github.com/user-attachments/assets/cca97bf6-b419-44ff-a0a8-59533fdd8e90)
+![fb2a236d-5f1b-4fb0-acd5-926fd824257d](https://github.com/user-attachments/assets/b5b63ce0-bdbb-46e4-8d3e-e93d5c71ae71)
+
+![cca97bf6-b419-44ff-a0a8-59533fdd8e90](https://github.com/user-attachments/assets/6de32609-373d-4d15-8956-8a2a655cd316)
+
 
 
 
