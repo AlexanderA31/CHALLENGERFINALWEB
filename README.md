@@ -48,7 +48,7 @@ Enlace: [Descargar Chromedriver](https://googlechromelabs.github.io/chrome-for-t
 
 ### Asegurarnos de estar usando la versión de Java correcta 
 
-![imagen](https://github.com/user-attachments/assets/fef15596-209f-4b40-9152-7b17fd34dbbd)
+![fef15596-209f-4b40-9152-7b17fd34dbbd](https://github.com/user-attachments/assets/82c3fef3-52c6-441a-a051-189e1402af05)
 
 ## Resultados Obtenidos
 
