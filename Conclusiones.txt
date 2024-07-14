@@ -1,0 +1,18 @@
+Este ejercicio presenta una implementación sólida de un flujo de compra automatizado para el sitio 
+web Demoblaze utilizando Cucumber con Java y Selenium WebDriver, estructurado con Serenity BDD. 
+La organización del código en paquetes específicos como stepsdefinitions, steps, page, runner, 
+y feature facilita la escalabilidad y mantenibilidad del proyecto. La integración de Serenity 
+BDD mejora la legibilidad y modularidad del código al utilizar actores y tareas para simular las interacciones del usuario.
+
+El uso de un @Before hook para la configuración inicial del WebDriver asegura un entorno de 
+prueba consistente, mientras que la implementación de pasos de Cucumber (@Given, @When, @Then, @And) 
+proporciona una clara separación de acciones y verificaciones. La captura de pantallas durante 
+la ejecución de pruebas y la inclusión de estas evidencias en los reportes facilita la identificación de problemas.
+
+El manejo de alertas y la verificación de resultados aseguran que las interacciones con la
+ aplicación sean robustas y precisas. Sin embargo, se podrían realizar algunas mejoras, 
+como la inyección de dependencias para reducir la dependencia directa de WebDriver en los steps, 
+la refactorización de la lógica de negocio, y la mejora en la gestión de datos y manejo de errores.
+
+En general, este proyecto demuestra buenas prácticas en la automatización de pruebas y 
+ofrece una base sólida para futuras expansiones y mejoras.
